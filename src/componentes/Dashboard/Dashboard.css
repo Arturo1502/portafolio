@@ -1,0 +1,26 @@
+.ProfilePhoto {
+    width: 350px;
+    border-radius: 50%;
+    border: 9px solid #00c0fd;
+
+}
+
+.presentacion {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    margin: auto 50px 0px 200px;
+}
+
+h1 {
+    color: var(--Solid-Heading, #42446e);
+    font-family: Poppins;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px;
+
+    letter-spacing: -1px;
+}
